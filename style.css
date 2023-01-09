@@ -1,0 +1,122 @@
+body {
+    font-family: Univers,Helvetica,Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+#cima {
+    display: flex;
+    flex-direction: row;
+    font-size: 17px;
+}
+
+#cima2 {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(187, 203, 227);
+}
+
+#kyl {
+    background-color: whitesmoke;
+    color: black;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 143.5px;
+    padding-right: 143.5px;
+    font-stretch: ultra-condensed;
+}
+
+#kylCos {
+    background-color: black;
+    color: whitesmoke;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 162.5px;
+    padding-right: 97.5px;
+    letter-spacing: -0,8px;
+    text-indent: -60px;
+    font-stretch: ultra-condensed;
+}
+
+#kylSki {
+    background-color:rgb(232, 195, 209);
+    color: whitesmoke;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 118.5px;
+    padding-right: 118.5px;
+}
+
+#kylBab {
+    background-color: rgb(187, 203, 227);
+    color: whitesmoke;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 124px;
+    padding-right: 124px;
+}
+
+#bloco {
+    padding-left: 16.1px;
+    padding-right: 9px;
+    padding-top: 17.5px;
+    padding-bottom: 17.5px;
+}
+
+#abas {
+    color: rgb(79, 86, 101);
+    font-weight: bolder;
+    font-size: 17px;
+    letter-spacing: -1px;
+    padding-left: 22px;
+    padding-right: 9px;
+    padding-top: 49px;
+}
+
+#input{
+    background-color:white;
+    border:solid 2px white;
+    border-radius:55px;
+    width: 170px;
+    height:32px;
+    margin-top: 37px;
+    margin-left: 248px;
+    text-indent: -25px;
+    padding-left: 23px;
+}
+
+#busca{
+    float:right;
+    background-color:transparent;
+    border:none;
+    height: 30px;
+    font-size: 12px;
+    text-indent: 0px;
+    padding-top: 2px;
+}
+
+button{
+    background-color: transparent;
+    padding-left: 10px;
+    padding-right: 0;
+    margin: 0px;
+    border: none;
+    padding-top: 5px;
+}
+
+#divinputbutton img{
+    float: right;
+}
+
+#icone {
+    margin-top: 35px;
+}
+
+#linha {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: 100%;
+    height: 2px;
+}
